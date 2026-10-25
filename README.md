@@ -87,3 +87,5 @@ This project demonstrates the use of Python for basic data cleaning, exploration
 - Data visualization
 - Exploratory data analysis (EDA)
 - Interpretation of charts and correlations
+
+drive link: https://drive.google.com/file/d/1fwylEXIgOechaykycXNMdcpYWIxMaJlp/view?usp=sharing
